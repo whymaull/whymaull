@@ -22,5 +22,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whymaull&show_icons=true&locale=en&theme=algolia" alt="whymaull" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whymaull&theme=algolia" alt="whymaull" /></p>
